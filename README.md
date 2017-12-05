@@ -1,2 +1,2 @@
 # Distributed Software Development course project
-start form README.md from YouStream project (core project)
+start reading instructions from README.md in YouStream project (core project)
